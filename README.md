@@ -1,3 +1,9 @@
+# Whispurr-S(toat)-D(esktop)
+
+**Whispurr-S-D** is a dedicated Stoat Chat desktop client that faithfully replicates the **Whisper Fork** of Fluffy Chat, maintaining its signature UI/UX—such as message styling, themes, and navigation—while tailoring its backend to support Stoat Chat’s protocol. This version prioritizes a polished desktop experience, with plans to ensure consistency across mobile and web platforms in the future. The project will continuously evolve, incorporating **Quality of Life (QoL) enhancements** like expanded default themes, performance optimizations for low-resource environments, and seamless synchronization with updates from the **web-based Whispurr-S fork**.
+
+---
+# Original Documentation
 <div align="center">
 <h1>
   Stoat for Desktop
